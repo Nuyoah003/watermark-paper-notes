@@ -16,7 +16,7 @@ This repository collects my personal analysis and notes on papers related to **t
 | 4 | [Robust Multi-bit NLP Watermarking](papers/RobustWatermark/README.md) | arXiv | 2023 | Keyword + syntactic dependency invariant features | [📝](papers/RobustWatermark/RobustWatermark_论文归纳.md) |
 | 5 | [DeepTextMark](papers/DeepTextMark/README.md) | arXiv | 2024 | Word2Vec + USE sentence encoding + BERT detector | [📝](papers/DeepTextMark/DeepTextMark_论文归纳.md) |
 | 6 | [REMARK-LLM](papers/REMARK-LLM/README.md) | USENIX Security | 2024 | Message encoding + Gumbel-Softmax reparameterization, 2× capacity | [📝](papers/REMARK-LLM/REMARK-LLM_论文归纳.md) |
-| 7 | [In-Context Watermarks (ICW)](papers/ICW/README.md) | arXiv | 2024 | Prompt-engineering-based black-box watermarking, 4 strategies | [📝](papers/ICW/ICW_Paper_Analysis.md) |
+| 7 | [In-Context Watermarks (ICW)](papers/ICW/README.md) | ICLR | 2026 | Prompt-engineering-based black-box watermarking, 4 strategies | [📝](papers/ICW/ICW_Paper_Analysis.md) |
 
 ## 🏷️ Topics Covered
 
